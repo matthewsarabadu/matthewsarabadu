@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/matthewsarabadu/">Matthew Sarabadu</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/matthew-sarabadusalesdirector/">Matthew Sarabadu</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
@@ -24,7 +24,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [twitter]: https://twitter.com/___________
 [youtube]: https://www.youtube.com/c/___________
 [instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/matthewsarabadu
+[linkedin]: https://linkedin.com/in/matthew-sarabadusalesdirector
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
